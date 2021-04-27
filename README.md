@@ -3,7 +3,7 @@
 My name is Josh, also known by my online alias "subbotted", and I'm 19 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for [Clarke Software](https://www.clarkesoftware.com). I am not interested in job opportunities at this moment in time.
 
 ### Languages & Experience
-I have real-world experience in a multitude of languages with target platforms spanning from Web, Desktop to Mobile.
+I have real-world experience in a multitude of (mainly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
 - Five years of experience in Java (Desktop applications in JavaFX & Swing, minecraft server plugins using the Bukkit API)
 - Two years of experience in C# (.NET Core & Framework with ASP.NET for Web, WPF for Desktop & Xamarin for cross-platform mobile applications)
 - Three years of experience in web-based languages including HTML, CSS & JavaScript
