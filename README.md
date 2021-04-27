@@ -8,6 +8,7 @@ I have real-world experience in a multitude of (mainly object-orientated) langua
 - Two years of experience in C# (.NET Core & Framework with ASP.NET for Web, WPF for Desktop & Xamarin for cross-platform mobile applications)
 - Three years of experience in web-based languages including HTML, CSS & JavaScript
 - Three years of experience in PHP & SQL
+
 My primary language I work with at the moment is C# as that is what we primarily use at my workplace, however I do still use Java now and again for personal projects as it is my preferred language.
 
 ### Portfolio
