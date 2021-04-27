@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Josh, and I'm 19 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for Clarke Software. I am not interested in job opportunities at this moment in time.
+My name is Josh, also known by my online alias "subbotted", and I'm 19 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for Clarke Software. I am not interested in job opportunities at this moment in time.
 
 ### Languages & Experience
 I have real-world experience in a multitude of languages with target platforms spanning from Web, Desktop to Mobile.
