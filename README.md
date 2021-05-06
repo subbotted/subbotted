@@ -4,7 +4,7 @@ My name is Josh, also known by my online alias "subbotted". I'm 19 years of age 
 
 ### Languages & Experience
 I have real-world experience in a multitude of (mainly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
-- Five years of experience in Java (Desktop applications in JavaFX & Swing, minecraft server plugins using the Bukkit API)
+- More than five years of experience in Java (Desktop applications in JavaFX & Swing, minecraft server plugins using the Bukkit API)
 - Two years of experience in C# (.NET Core & Framework with ASP.NET for Web, WPF for Desktop & Xamarin for cross-platform mobile applications)
 - Three years of experience in web-based languages including HTML, CSS & JavaScript
 - Three years of experience in PHP & SQL
