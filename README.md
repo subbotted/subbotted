@@ -3,11 +3,12 @@
 My name is Josh, also known by my online alias "subbotted". I'm 20 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for [John Finch Computers](https://www.johnfinchcomputers.co.uk/). I am not interested in job opportunities at this moment in time.
 
 ### Languages & Experience
-I have real-world experience in a multitude of (mainly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
-- More than five years of experience in Java (Desktop applications in JavaFX & Swing, minecraft server plugins using the Bukkit API)
-- Two years of experience in C# (.NET Core & Framework with ASP.NET for Web, WPF for Desktop & Xamarin for cross-platform mobile applications)
-- Three years of experience in web-based languages including HTML, CSS & JavaScript
-- Three years of experience in PHP & SQL
+I have real-world experience in a multitude of (mostly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
+- More than five years of experience in Java (Desktop applications in JavaFX & Swing, game server plugins)
+- Three years of experience in C# (.NET Core & Framework with ASP.NET for Web, WPF for Desktop & Xamarin for cross-platform mobile applications)
+- Five years of experience in SQL and web-based languages including HTML, CSS & JavaScript
+- Three years of experience in PHP
+
 
 My primary language I work with at the moment is C# as that is what we primarily use at my workplace, however I do still use Java now and again for personal projects as it is my preferred language.
 
