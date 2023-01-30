@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Josh, also known by my online alias "subbotted". I'm 20 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for [John Finch Computers](https://jfc.support/). I am not interested in job opportunities at this moment in time.
+My name is Josh, also known by my online alias "subbotted". I'm 21 years of age and a Web/Desktop Application Developer with over five years of experience! I'm located in Hereford, United Kingdom and currently working for [John Finch Computers](https://jfc.support/). I am not interested in job opportunities at this moment in time.
 
 ### Languages & Experience
 I have real-world experience in a multitude of (mostly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
