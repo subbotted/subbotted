@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Josh, I'm 21 years of age and a Web/Desktop Application Developer with over five years of experience. I'm located in Hereford, United Kingdom and I am currently working for [TSD Digital](https://tsd.digital/). I am not interested in job opportunities at this moment in time.
+My name is Josh, I'm 22 years of age and a Web/Desktop Application Developer with over five years of experience. I'm located in Hereford, United Kingdom and I am currently working for [TSD Digital](https://tsd.digital/). I am not interested in job opportunities at this moment in time.
 
 ### Languages & Experience
 I have real-world experience in a multitude of (mostly object-orientated) languages with target platforms spanning from Web, Desktop to Mobile.
