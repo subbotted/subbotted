@@ -8,9 +8,9 @@ I found a passion for software development in 2014 by creating plugins for games
 I began my journey as a Java developer and transitioned into full-stack web development. Since 2020, my primary focus has been on the C# .NET ecosystem.
 
 ### Languages & Experience
-Languages: C#, Java, JavaScript/TypeScript and more
-Platforms: Web, Desktop, Mobile
-Frameworks & Tools: .NET, ASP.NET Core, Blazor, MAUI and others
+- **Languages:** C#, Java, JavaScript/TypeScript and more
+- **Platforms:** Web, Desktop, Mobile
+- **Frameworks & Tools:** .NET, ASP.NET Core, Blazor, MAUI and others
 
 ### Connect with me
 Feel free to reach out:
